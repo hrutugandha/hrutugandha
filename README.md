@@ -1,5 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Hrutugandha 👩🏾‍💻</h1>
-<h3 align="center">A passionate MERN stack web developer from India</h3>
+<h1 align="center">Hi there 👋, I'm Hrutugandha 💻</h1>
 <h3 align="center">I am a software engineer focusing on the front-end development. I love building products and sharing knowledge.</h3>
 
 
