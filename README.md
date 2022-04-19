@@ -1,7 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Hrutugandha</h1>
 <h3 align="center">A passionate MERN stack web developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hrutugandha&label=Profile%20views&color=0e75b6&style=flat" alt="hrutugandha" /> </p>
 
 - 🎓 I’m currently learning **Full Stack Software Development at Masai School**
 
@@ -11,9 +10,11 @@
 
 - 📧 Reach out to me at Gmail : **hrutunishi19@gmail.com**
 
+- ⚡ Fun fact **I am an Aries ♈**
+
 - 📄 Know about my experiences [https://www.canva.com/design/DAE80BigzUY/Bymwt1Qt6DcAtrB9OPcgkg/edit?utm_content=DAE80BigzUY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAE80BigzUY/Bymwt1Qt6DcAtrB9OPcgkg/edit?utm_content=DAE80BigzUY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-- ⚡ Fun fact **I am an Aries ♈**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hrutugandha&label=Profile%20views&color=0e75b6&style=flat" alt="hrutugandha" /> </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
