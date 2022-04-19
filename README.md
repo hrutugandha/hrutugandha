@@ -1,5 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Hrutugandha 👩🏾‍💻</h1>
 <h3 align="center">A passionate MERN stack web developer from India</h3>
+<h3 align="center">I am a software engineer focusing on the front-end development. I love building products and sharing knowledge.</h3>
 
 
 - 🎓 I’m currently learning **Full Stack Software Development at Masai School**
