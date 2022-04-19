@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Hrutugandha 💻</h1>
-<h3 align="center">I am a software engineer focusing on the MERN stack development. I love building products and sharing knowledge.</h3>
+<h1 align="center">Hi there 👋, I'm Hrutugandha</h1>
+<h3 align="center">I am a software engineer 💻 focusing on the MERN stack development. I love building products and sharing knowledge.💜</h3>
 
 
 - 🎓 I’m currently learning **Full Stack Software Development at Masai School**
