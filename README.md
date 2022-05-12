@@ -14,7 +14,7 @@
 * 🌐  Checkout my portfolio here 👉 [hrutugandha-nishigandh.vercel.app/](https://hrutugandha-nishigandh.vercel.app/)
 
 
-### <h3>Tech Stack<h3/>
+### Tech Stack
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
@@ -33,11 +33,11 @@
 </p>
 
 
-### <h3>Socials<h3/>
+### Socials
 
 <p align="left"> <a href="https://www.github.com/hrutugandha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/hrutugandha-n-32735219b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@hrutugandha_fw14_237" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
 
-### <h3>Github Stats<h3/>
+### Github Stats
 
 <a href="http://www.github.com/hrutugandha"><img src="https://github-readme-stats.vercel.app/api?username=hrutugandha&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="hrutugandha's GitHub stats" /></a>
 
