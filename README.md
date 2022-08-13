@@ -4,13 +4,13 @@
 <h2 align="center">Software Developer 💻 focusing on building tech to elevate the community. love building products and sharing knowledge.💜</h2>
 
 
-
 * 🌍  I'm based in Pune, India
 * ✉️  You can contact me at [hrutunishi19@gmail.com](mailto:hrutunishi19@gmail.com)
 * 🧠  I'm learning MERN stack @MasaiSchool, Bangaluru.
 * ⚡  Fun fact I am an Aries ♈
 * 🌐  Checkout my portfolio here 👉 [hrutugandha-nishigandh.vercel.app/](https://hrutugandha-nishigandh.vercel.app/)
 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### Tech Stack
 
@@ -30,10 +30,13 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/hrutugandha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/hrutugandha-n-32735219b/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@hrutugandha_fw14_237" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a></p>
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### Github Stats
 
