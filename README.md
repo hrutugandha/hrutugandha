@@ -5,6 +5,7 @@
 
 
 * 🌍  I'm based in Pune, India
+* 👯 I’m looking to collaborate on OpenSource Projects
 * ✉️  You can contact me at [hrutunishi19@gmail.com](mailto:hrutunishi19@gmail.com)
 * 🧠  I'm learning MERN stack @MasaiSchool, Bangaluru.
 * ⚡  Fun fact I am an Aries ♈
