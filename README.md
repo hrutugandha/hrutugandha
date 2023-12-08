@@ -8,7 +8,7 @@
 * 👯 I’m looking to collaborate on OpenSource Projects
 * ✉️  You can contact me at [hrutunishi19@gmail.com](mailto:hrutunishi19@gmail.com)
 * 🧠  I'm learning MERN stack @MasaiSchool, Bangaluru.
-* ⚡  Fun fact I am an Aries ♈
+* 🚀 Coding nomad exploring the digital wilderness. 🏞️ #TechAdventurer
 * 🌐  Checkout my portfolio here 👉 [hrutugandha-nishigandh.vercel.app/](https://hrutugandha-nishigandh.vercel.app/)
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
