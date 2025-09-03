@@ -4,7 +4,7 @@
 <h2 align="center">Software Developer 💻 focusing on building tech to elevate the community. love building products and sharing knowledge.💜</h2>
 
 
-* 🌍  I'm based in Pune, India
+* 🌍  I'm based in Bengaluru, India
 * 👯 I’m looking to collaborate on OpenSource Projects
 * ✉️  You can contact me at [hrutunishi19@gmail.com](mailto:hrutunishi19@gmail.com)
 * 🧠  I'm learning MERN stack @MasaiSchool, Bangaluru.
